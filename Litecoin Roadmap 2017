@@ -1,0 +1,97 @@
+Litecoin Roadmap 2017
+
+Litecoin Core
+
+Developers: shaolinfry, thrasher-
+Release 0.13.3
+Rebase Litecoin to Bitcoin Core 0.14.1
+BIP173 - Bech32 addresses: more secure address format designed for segregated witness
+M Addresses
+
+Developers: coblee, wangxinxi
+Switch Litecoin’s p2sh address prefix from ‘3’ to ‘M’
+Help update various libraries to support the new address type.
+Encourage adoption with large transaction producers and wallets including exchanges.
+Android Wallet
+
+Developers: electo
+Relaunch our Android wallet
+LoafWallet
+
+Developers: losh11, mlpfrank
+Add support for buying litecoins with Coinbase Buy Widget.
+New UI.
+New app tutorials
+Android Wallet - LoafWallet Core C library.
+Electrum-LTC
+
+Developers: pooler
+Release 2.8.3.2
+Litecore/Insight
+
+Developers: losh11, coblee, ultragtx
+Add SegWit support to Litecore and Insight block explorer
+Improve uptime as many products rely on it
+Lightning Network
+
+Developers: coblee, ultragtx, wangxinxi
+Work with Lightning developers on building out the infrastructure for lightning network on Litecoin.
+Work on cross chain atomic swap between Litecoin and Vertcoin.
+Smart Crypto-Vault
+
+Developers: jl2012
+Add MAST, Covenants, and re-enable some Satoshi OP codes
+Enable smart contract and secure Litecoin by output address designation
+Litecoin.Network
+
+Developers: losh11, mlpfrank, rjmacarthy
+Litecoin.network is a project to be launched, that will track information regarding the Litecoin network, making it easily accessible and viewable in one place.
+The site will also track development, network economics, mining and more specialised information such as mempool size.
+Historic data available through API, and as a CSV file.
+Litecoin Foundation
+
+Managing Director: Charlie Lee
+Directors: Charlie Lee, Xinxi Wang, Franklyn Richards
+Community Advisor: Chandler Guo
+Developers: losh11, fancycedar
+Work on funding Litecoin developers by raising funds through means like donations and selling Litecoin branded items like Ledger Nano S, t-shirts.
+Ensure financial transparency.
+Hire full time developers to work on Litecoin Core.
+Provide infrastructure for the Litecoin development team like Github/DigitalOcean/Slack/Mail services.
+Refactoring Litecoin websites
+
+Developers: losh11, mlpfrank
+Litecoin.com - UI overhaul
+Litecoin.org - fix broken links, and improve layout
+Future Work
+
+Schnorr Signatures
+Confidential Transactions
+Scaling research
+About the team
+
+Developers:
+
+coblee (Charlie Lee)
+electo (Faisal Mehmood)
+fancycedar (Fan Yang)
+jl2012 (Johnson Lau)
+losh11 (Loshan T)
+mlpfrank (Franklyn Richards)
+pooler
+rjmacarthy (Richard Macarthy)
+shaolinfry
+thrasher- (Adrian Gallagher)
+ultragtx (Xinrong Guo)
+void-main (Peng Sun)
+wangxinxi (Xinxi Wang)
+wtogami (Warren Togami)
+Websites - https://litecoin.org/, https://litecoincore.org/
+
+Twitter - @litecoincore
+
+Litecoin Core is the Litecoin reference client. Featuring ‘full node’ capabilities to fully download and validate the Litecoin blockchain as well as wallet functionality to manage transactions. Litecoin Core is the most feature rich client out there and contains all the protocol rules required for the Litecoin network to function. This client is used by mining pools, merchants and services all over the world for its rock solid stability, featureset and security.
+
+Contact the team
+
+Litecoin developers are available on Freenode IRC, channel #litecoin-dev. Use your favorite IRC client or use the web-client here.
